@@ -55,7 +55,7 @@ _Summary of the MDN HTML reference guide_
 |**Inline text semantics**| Citation, emphasis, underlines, etc. | *Use the HTML inline text semantic to define the meaning, structure, or style of a word, line, or any arbitrary piece of text.*|
 |**Image and multimedia**| Adding pictures and media! | *HTML supports various multimedia resources such as images, audio, and video.*|
 |**Embedded content**| Advanced: Using material hosted elsewhere on other servers, `<iframe>` is the biggie here | *In addition to regular multimedia content, HTML can include a variety of other content, even if it's not always easy to interact with.*|
-* |**Scripting**| Advanced: JavaScript and Drawing Support (Vector Graphics) | *In order to create dynamic content and Web applications, HTML supports the use of scripting languages, most prominently JavaScript. Certain elements support this capability.*|
+|**Scripting**| Advanced: JavaScript and Drawing Support (Vector Graphics) | *In order to create dynamic content and Web applications, HTML supports the use of scripting languages, most prominently JavaScript. Certain elements support this capability.*|
 |**Table content**| Tables | *The elements here are used to create and handle data best shown in tables.*|
 |**Forms**|Advanced: Tags for building forms for sign-up or login, for example  | *HTML provides a number of elements which can be used together to create forms which the user can fill out and submit to the Web site or application. There's a great deal of further information about this available in the HTML forms guide.*|
 
