@@ -51,7 +51,7 @@ _Summary of the MDN HTML reference guide_
 |MDN Section Title|Human-Friendly Section Title|Summary|
 |------|------|------|
 |**Main Root**|The `<html>` tag|*The `<html>` tag and that's it!*|
-|**Document metadata**|Website data that goes in the `<head>` tag |*Metadata contains information about the page. Information about styles, scripts and data to help software (search engines, browsers, etc.) use and render the page. *|
+|**Document metadata**|Website data that goes in the `<head>` tag |*Metadata contains information about the page. Information about styles, scripts and data to help software (search engines, browsers, etc.) use and render the page.*|
 |**Sectioning Root**|The `<body>` tag|*The `<body>` tag and that's it!*|
 |**Content sectioning**| Headings, titles, division, sections, footers, etc. | *Content sectioning elements allow you to organize the document content into logical pieces.*|
 |**Text content**| Formatting for text: list items, horizontal rules, figures listings for under images| *Use HTML text content elements to organize blocks or sections of content placed between the opening <body> and closing </body> tags.*|
