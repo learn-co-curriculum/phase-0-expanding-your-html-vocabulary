@@ -40,7 +40,7 @@ exists!"
 
 The [MDN HTML Reference Guide][MDN] is a list of HTML tags
 grouped together by their functions. These sections are not entirely "human
-readable", which makes it a bit difficult to understand where to start looking. 
+readable," which makes it a bit difficult to understand where to start looking. 
 Some of the headings are very technical-sounding. To help you find what you need 
 here, we've created this helpful table to help you convert between MDN-ese and 
 the terms you have learned. We've also simplified _all_ the MDN content 
