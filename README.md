@@ -29,7 +29,7 @@ no-frills explanation of a tag, Mozilla is your best bet.
 
 There are some drawbacks in using MDN.  Because Mozilla is so trusted, their
 information tends to be ... _exhaustive_.  Because it's so *ahem* thorough, it
-can sometimes be to digest.  Their information tends to be for _reference_ not
+can sometimes be hard to digest.  Their information tends to be for _reference_ not
 _tutorial_ purposes.
 
 Drawbacks aside, MDN is a good solid starting place for research and it can
