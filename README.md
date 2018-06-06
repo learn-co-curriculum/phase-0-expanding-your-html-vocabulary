@@ -2,12 +2,12 @@
 
 ## Problem Statement
 
-It's a truth of the high-tech world: technologies will always be vaster than
-our experience. How can a developer stay up-to-date? Developers need to be able
-to reference state-of-the-art documentation in a just-in-time fashion.
+It's a truth of the high-tech world: technologies will always be growing faster
+than our skill with them. How can a developer stay up-to-date? Developers need to be able
+to reference the latest documentation in a just-in-time fashion.
 
-That is, when you have a question, you should consult the best source, take
-what you need, and integrate it. The purpose of this README is to help you get
+When you have a question, you should consult the best source, take
+what you need, and use it. The purpose of this README is to help you get
 oriented with the primary source of HTML documentation, the [Mozilla Developer
 Network (MDN)][MDN].
 
@@ -19,13 +19,11 @@ Network (MDN)][MDN].
 ## Introduce Mozilla Foundation and MDN
 
 The Mozilla Foundation is an open-source company that has a long history
-with browsers and browser technology. In fact, there's a direct familial
-relationship between Mozilla and the first commercial web browser, Netscape
-Navigator.
+with browsers and browser technology.
 
 Mozilla is a reliable reference for the latest HTML tags.  There are many other
-sites online that exist to discuss these tags, but when you want a thorough,
-no-frills explanation of a tag, Mozilla is your best bet.
+sites online that exist to discuss these tags, but when you want a thorough
+explanation of a tag, Mozilla is your best bet.
 
 There are some drawbacks in using MDN.  Because Mozilla is so trusted, their
 information tends to be ... _exhaustive_.  Because it's so *ahem* thorough, it
@@ -33,18 +31,20 @@ can sometimes be hard to digest.  Their information tends to be for _reference_ 
 _tutorial_ purposes.
 
 Drawbacks aside, MDN is a good solid starting place for research and it can
-take you from "Does something like this exist" to "Now I know this thing
-exists!"
+take you from "Does something like this exist?" to "Now I know that this thing
+exists, maybe I can find a tutorial!"
 
 ## Navigate the MDN Reference Guide
 
 The [MDN HTML Reference Guide][MDN] is a list of HTML tags
 grouped together by their functions. These sections are not entirely "human
 readable," which makes it a bit difficult to understand where to start looking. 
-Some of the headings are very technical-sounding. To help you find what you need 
-here, we've created this helpful table to help you convert between MDN-ese and 
-the terms you have learned. We've also simplified _all_ the MDN content 
-to the sections that you're most likely to use:
+Some of the headings are very technical-sounding.
+
+To help you find what you need 
+in this listing, we've created this helpful table to help you convert between MDN-ese and 
+the HTML terms you have learned. We've also listed only the MDN content 
+sections that you're most likely to use:
 
 _Summary of the MDN HTML reference guide_
 
