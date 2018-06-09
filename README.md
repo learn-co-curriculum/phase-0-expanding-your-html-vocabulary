@@ -2,13 +2,13 @@
 
 ## Problem Statement
 
-It's a truth of the high-tech world: technologies will always be growing faster
-than our skill with them. How can a developer stay up-to-date? Developers need to be able
-to reference the latest documentation in a just-in-time fashion.
+Because of the pace of change in web technologies, it often feels like as soon as you
+learn something it's already obsolete. How can a developer stay up-to-date? Developers 
+need to be able to reference the latest documentation in a just-in-time fashion.
 
 When you have a question, you should consult the best source, take
 what you need, and use it. The purpose of this README is to help you get
-oriented with the primary source of HTML documentation, the [Mozilla Developer
+oriented with a popular source of HTML documentation, the [Mozilla Developer
 Network (MDN)][MDN].
 
 ## Learning Objectives
@@ -23,7 +23,7 @@ with browsers and browser technology.
 
 Mozilla is a reliable reference for the latest HTML tags.  There are many other
 sites online that exist to discuss these tags, but when you want a thorough
-explanation of a tag, Mozilla is your best bet.
+explanation of a tag, Mozilla is often a great choice.
 
 There are some drawbacks in using MDN.  Because Mozilla is so trusted, their
 information tends to be ... _exhaustive_.  Because it's so *ahem* thorough, it
