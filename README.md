@@ -59,18 +59,18 @@ _Summary of the MDN HTML reference guide_
   
   <tr>
     <td>**Main Root**</td>
-    <td>The <code><html></code> tag</td>
-    <td>*The <code><html></code> tag and that's it!*</td>
+    <td>The <code>html</code> tag</td>
+    <td>*The <code>html</code> tag and that's it!*</td>
   </tr>
   <tr>
     <td>**Document metadata**</td>
-    <td>Website data that goes in the <code><head></code> tag</td>
+    <td>Website data that goes in the <code>head</code> tag</td>
     <td>*Metadata contains information about the page. Information about styles, scripts and data to help software (search engines, browsers, etc.) use and render the page.*</td>
   </tr>  
   <tr>
     <td>**Sectioning Root**</td>
-    <td>The <code><body></code> tag</td>
-    <td>*The <code><body></code> tag and that's it!*</td>
+    <td>The <code>body</code> tag</td>
+    <td>*The <code>body</code> tag and that's it!*</td>
   </tr>
   <tr>
     <td>**Content sectioning**</td>
@@ -80,7 +80,7 @@ _Summary of the MDN HTML reference guide_
   <tr>
     <td>**Text content**</td>
     <td>Formatting for text: list items, horizontal rules, figures listings for under images</td>
-    <td>Use HTML text content elements to organize blocks or sections of content placed between the opening <code><body></code> and closing <code></body></code> tags.*</td>
+    <td>Use HTML text content elements to organize blocks or sections of content placed between the opening and closing <code>body</code> tags.*</td>
   </tr>
   <tr>
     <td>**Inline text semantics**</td>
@@ -94,7 +94,7 @@ _Summary of the MDN HTML reference guide_
   </tr>
   <tr>
     <td>**Embedded content**</td>
-    <td>Advanced: Using material hosted elsewhere on other servers, <code><iframe></code> is the biggie here</td>
+    <td>Advanced: Using material hosted elsewhere on other servers, <code>iframe</code> is the biggie here</td>
     <td>*In addition to regular multimedia content, HTML can include a variety of other content, even if it's not always easy to interact with.*</td>
   </tr>
   <tr>
