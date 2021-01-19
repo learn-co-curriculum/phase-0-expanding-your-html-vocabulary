@@ -49,19 +49,70 @@ sections that you're most likely to use:
 
 _Summary of the MDN HTML reference guide_
 
-|MDN Section Title|Human-Friendly Section Title|Summary|
-|------|------|------|
-|**Main Root**|The `<html>` tag|*The `<html>` tag and that's it!*|
-|**Document metadata**|Website data that goes in the `<head>` tag |*Metadata contains information about the page. Information about styles, scripts and data to help software (search engines, browsers, etc.) use and render the page.*|
-|**Sectioning Root**|The `<body>` tag|*The `<body>` tag and that's it!*|
-|**Content sectioning**| Headings, titles, division, sections, footers, etc. | *Content sectioning elements allow you to organize the document content into logical pieces.*|
-|**Text content**| Formatting for text: list items, horizontal rules, figures listings for under images| *Use HTML text content elements to organize blocks or sections of content placed between the opening <body> and closing </body> tags.*|
-|**Inline text semantics**| Citation, emphasis, underlines, etc. | *Use the HTML inline text semantic to define the meaning, structure, or style of a word, line, or any arbitrary piece of text.*|
-|**Image and multimedia**| Adding pictures and media! | *HTML supports various multimedia resources such as images, audio, and video.*|
-|**Embedded content**| Advanced: Using material hosted elsewhere on other servers, `<iframe>` is the biggie here | *In addition to regular multimedia content, HTML can include a variety of other content, even if it's not always easy to interact with.*|
-|**Scripting**| Advanced: JavaScript and Drawing Support (Vector Graphics) | *In order to create dynamic content and Web applications, HTML supports the use of scripting languages, most prominently JavaScript. Certain elements support this capability.*|
-|**Table content**| Tables | *Tables*|
-|**Forms**|Advanced: Tags for building forms for sign-up or login, for example  | *HTML provides a number of elements that can be used together to create forms which the user can fill out and submit to the Web site or application. There's a great deal of further information about this available in the HTML forms guide.*|
+
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr>
+    <th>MDN Section Title</th>
+    <th>Human-Friendly Section Title</th>
+    <th>Summary</th>
+  </tr>
+  
+  <tr>
+    <td>**Main Root**</td>
+    <td>The <code><html></code> tag</td>
+    <td>*The <code><html></code> tag and that's it!*</td>
+  </tr>
+  <tr>
+    <td>**Document metadata**</td>
+    <td>Website data that goes in the <code><head></code> tag</td>
+    <td>*Metadata contains information about the page. Information about styles, scripts and data to help software (search engines, browsers, etc.) use and render the page.*</td>
+  </tr>  
+  <tr>
+    <td>**Sectioning Root**</td>
+    <td>The <code><body></code> tag</td>
+    <td>*The <code><body></code> tag and that's it!*</td>
+  </tr>
+  <tr>
+    <td>**Content sectioning**</td>
+    <td>Headings, titles, divs, sections, footers, etc.</td>
+    <td>*Content sectioning elements allow you to organize the document content into logical pieces.*</td>
+  </tr>
+  <tr>
+    <td>**Text content**</td>
+    <td>Formatting for text: list items, horizontal rules, figures listings for under images</td>
+    <td>Use HTML text content elements to organize blocks or sections of content placed between the opening <code><body></code> and closing <code></body></code> tags.*</td>
+  </tr>
+  <tr>
+    <td>**Inline text semantics**</td>
+    <td>Citation, emphasis, underlines, etc.</td>
+    <td>*Use the HTML inline text semantics to define the meaning, structure, or style of a word, line, or any arbitrary piece of text.*</td>
+  </tr>
+  <tr>
+    <td>**Image and multimedia**</td>
+    <td>Adding pictures and media!</td>
+    <td>*HTML supports various multimedia resources such as images, audio, and video.*</td>
+  </tr>
+  <tr>
+    <td>**Embedded content**</td>
+    <td>Advanced: Using material hosted elsewhere on other servers, <code><iframe></code> is the biggie here</td>
+    <td>*In addition to regular multimedia content, HTML can include a variety of other content, even if it's not always easy to interact with.*</td>
+  </tr>
+  <tr>
+    <td>**Scripting**</td>
+    <td>Advanced: JavaScript and Drawing Support (Vector Graphics)</td>
+    <td>*In order to create dynamic content and Web applications, HTML supports the use of scripting languages, most prominently JavaScript. Certain elements support this capability.*</td>
+  </tr>
+  <tr>
+    <td>**Table content**</td>
+    <td>Tables</td>
+    <td>*Tables*</td>
+  </tr>
+  <tr>
+    <td>**Forms**</td>
+    <td>Advanced: Tags for building forms for sign-up or login, for example</td>
+    <td>*HTML provides a number of elements that can be used together to create forms which the user can fill out and submit to the Web site or application. There's a great deal of further information about this available in the HTML forms guide.*</td>
+  </tr>
+</table>
 
 ## Conclusion
 
