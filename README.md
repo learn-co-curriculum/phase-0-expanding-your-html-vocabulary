@@ -15,7 +15,7 @@ a just-in-time fashion.
 When you have a question, you should consult the best source, take
 what you need, and use it. The purpose of this README is to help you get
 oriented with a popular source of HTML documentation, the [Mozilla Developer
-Network (MDN)[MDN].
+Network (MDN)][MDN].
 
 ## Identify the Mozilla Foundation and MDN
 
