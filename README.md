@@ -80,7 +80,7 @@ _Summary of the MDN HTML reference guide_
   <tr>
     <td><strong>Text content</strong></td>
     <td>Formatting for text: list items, horizontal rules, figures listings for under images</td>
-    <td>Use HTML text content elements to organize blocks or sections of content placed between the opening and closing <code>body</code> tags.</em></td>
+    <td><em>Use HTML text content elements to organize blocks or sections of content placed between the opening and closing <code>body</code> tags.</em></td>
   </tr>
   <tr>
     <td><strong>Inline text semantics</strong></td>
