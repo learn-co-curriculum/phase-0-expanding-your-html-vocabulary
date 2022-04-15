@@ -37,7 +37,7 @@ exists, maybe I can find a tutorial!"
 
 ## Navigate the MDN Reference Guide
 
-The [MDN HTML Reference Guide][mdn] is a list of HTML tags
+The [MDN HTML Reference Guide][mdn-html-reference] is a list of HTML tags
 grouped together by their functions. These sections are not entirely "human
 readable," which makes it a bit difficult to understand where to start looking.
 Some of the headings are very technical-sounding.
@@ -64,7 +64,9 @@ also listed only the MDN content sections that you're most likely to use:
 
 As developers, we will often feel uncomfortable with the fact that the
 technologies we depend on are always growing and changing. With authoritative
-guides like [MDN][mdn], we have found out that we can learn just the little bit we
-need as we need it.
+guides like [MDN][mdn-html-tutorial], we have found out that we can learn just
+the little bit we need as we need it.
 
-[mdn]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+[mdn]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[mdn-html-reference]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+[mdn-html-tutorial]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
